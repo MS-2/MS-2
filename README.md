@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello there ! ~ I'm Juan Jose Rodriguez 👋
+## Systems Engineer, Software Developer, Technomancer
+###  Remarkable Skills : 
+HTML, JAVASCRIPT, C#, CSS, React, RactNative, Nodejs, UNITY, PC HARDWARE, ARDUINO, A.I, CRYPTOWORLD
+
+
+
+⚡ Fun fact: ...I love :snail:
 
 <!--
 **MS-2/MS-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
