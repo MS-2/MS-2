@@ -1,5 +1,5 @@
 # Hello there ! ~ I'm Juan Jose Rodriguez 👋
-## Systems Engineer, Software Developer, Technomancer
+## Systems Engineer, Software Developer, Technical Leader.
 ###  Remarkable Skills : 
 HTML, JAVASCRIPT, C#, CSS, React, RactNative, Nodejs, UNITY, PC HARDWARE, ARDUINO, A.I, CRYPTOWORLD
 
