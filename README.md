@@ -1,11 +1,11 @@
 # Hello there ! ~ I'm Juan Jose Rodriguez 👋
-## Systems Engineer, Software Developer, Technical Leader.
+## Systems Engineer, Software Developer, IA Researcher.
 ###  Remarkable Skills : 
-HTML, JAVASCRIPT, C#, CSS, React, RactNative, Nodejs, UNITY, PC HARDWARE, ARDUINO, A.I, CRYPTOWORLD
+HTML, TypeScript, C#, CSS, React, RactNative, Nodejs, UNITY, PC HARDWARE, ARDUINO, A.I, CRYPTOWORLD
 
-
-
-⚡ Fun fact: ...I love :snail:
+- 🔭 I’m currently working on Implement IA models on wearables
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on any IA project 
 
 <!--
 **MS-2/MS-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
